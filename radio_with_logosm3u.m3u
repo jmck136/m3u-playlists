@@ -5,29 +5,14 @@
 #EXTINF:-1 tvg-id="bbc_radio_1.uk",BBC Radio 1
 http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1 tvg-id="bbc_radio_1xtra.uk",BBC Radio 1Xtra
-http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1 tvg-id="bbc_radio_1dance.uk",BBC Radio 1 Dance
-http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1 tvg-id="bbc_radio_1anthems.uk",BBC Radio 1 Anthems
-http://as-hls-uk-live.akamaized.net/pool_11351741/live/uk/bbc_radio_one_anthems/bbc_radio_one_anthems.isml/bbc_radio_one_anthems-audio%3d96000.norewind.m3u8
-
 #EXTINF:-1 tvg-id="bbc_radio_2.uk",BBC Radio 2
 http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1 tvg-id="bbc_radio_3.uk",BBC Radio 3
 http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1 tvg-id="bbc_radio_3_unwind.uk",BBC Radio 3 Unwind
-http://as-hls-uk-live.akamaized.net/pool_30624046/live/uk/bbc_radio_three_unwind/bbc_radio_three_unwind.isml/bbc_radio_three_unwind-audio%3d320000.norewind.m3u8
-
 #EXTINF:-1 tvg-id="bbc_radio_4.uk",BBC Radio 4
 http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1 tvg-id="bbc_radio_4_extra.uk",BBC Radio 4 Extra
-http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1 tvg-id="bbc_radio_5_live.uk",BBC Radio 5 Live
 http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
@@ -56,7 +41,7 @@ https://av.rasset.ie/av/live/radio/lyric.m3u8
 https://av.rasset.ie/av/live/radio/rnag.m3u8
 
 #EXTINF:-1 tvg-id="rnl.ie" tvg-logo="https://www.radionlife.ie/wp-content/uploads/2021/05/logo_rnl.png",Radio na Life
-https://streaming.radio.co/s9772f0a3a/listen
+https://listen.radioking.com/radio/11474/stream/15331
 
 #EXTINF:-1 tvg-id="DDR.ie" tvg-logo="https://www.dublindigitalradio.com/wp-content/uploads/2020/12/logo.png" group-title="Core – Public Curated",Dublin Digital Radio
 https://listen.dublindigitalradio.com/stream
