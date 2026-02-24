@@ -3,28 +3,18 @@
 # BBC stations
 
 #EXTINF:-1 tvg-id="bbc_radio_1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BBC_Radio_1_Logo_2021.svg/512px-BBC_Radio_1_Logo_2021.svg.png",BBC Radio 1
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
 
 #EXTINF:-1 tvg-id="bbc_radio_2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BBC_Radio_2_Logo_2021.svg/512px-BBC_Radio_2_Logo_2021.svg.png",BBC Radio 2
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
 
 #EXTINF:-1 tvg-id="bbc_radio_3.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BBC_Radio_3_Logo_2021.svg/512px-BBC_Radio_3_Logo_2021.svg.png",BBC Radio 3
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_three.m3u8
 
 #EXTINF:-1 tvg-id="bbc_radio_4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/BBC_Radio_4_Logo_2021.svg/512px-BBC_Radio_4_Logo_2021.svg.png",BBC Radio 4
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
 
-#EXTINF:-1 tvg-id="bbc_radio_5_live.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_Radio_5_Live_Logo_2021.svg/512px-BBC_Radio_5_Live_Logo_2021.svg.png",BBC Radio 5 Live
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live
-
-#EXTINF:-1 tvg-id="bbc_radio_5_live_sports_extra.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_Radio_5_Live_Logo_2021.svg/512px-BBC_Radio_5_Live_Logo_2021.svg.png",BBC Radio 5 Live Sports Extra
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_sports_extra
-
-#EXTINF:-1 tvg-id="bbc_radio_6music.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/BBC_Radio_6_Music_Logo_2021.svg/512px-BBC_Radio_6_Music_Logo_2021.svg.png",BBC Radio 6 Music
-https://stream.live.vc.bbcmedia.co.uk/bbc_6music
-
-#EXTINF:-1 tvg-id="bbc_radio_ulster.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/BBC_Radio_Ulster_logo.svg/512px-BBC_Radio_Ulster_logo.svg.png",BBC Radio Ulster
-https://stream.live.vc.bbcmedia.co.uk/bbc_radio_ulster
+#EXTINF:-1 tvg-id="bbc_radio_5_live.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_Radio_5_Live_Logo
 
 # Irish stations
 #EXTINF:-1 tvg-id="rte_radio_1.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/RT%C3%89_Radio_1_logo.svg",RTÉ Radio 1
