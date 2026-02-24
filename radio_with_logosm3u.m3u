@@ -42,46 +42,43 @@ http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.
 http://as-hls-ww-live.akamaized.net/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d96000.norewind.m3u8
 
 # Irish stations
-#EXTINF:-1 tvg-id="rte_radio_1.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/RT%C3%89_Radio_1_logo.svg",RTÉ Radio 1
-http://av.rasset.ie/av/live/radio/radio1.m3u8
-#EXTINF:-1 tvg-id="rte_2fm.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/RTÉ_2FM_logo.svg",RTÉ 2FM
-http://av.rasset.ie/av/live/radio/2fm.m3u8
-#EXTINF:-1 tvg-id="rte_lyric.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/RT%C3%89_Lyric_FM_logo.svg",RTÉ Lyric FM
-http://av.rasset.ie/av/live/radio/lyric.m3u8
-#EXTINF:-1 tvg-id="rte_rnag.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Raidio_na_Gaeltachta_logo.svg",RTÉ Raidió na Gaeltachta
-http://av.rasset.ie/av/live/radio/rnag.m3u8
-#EXTINF:-1 tvg-id="RNL.ie" tvg-logo="https://www.radionlife.ie/wp-content/uploads/2021/05/logo_rnl.png" group-title="Core – Public Curated",Radio na Life
 
-http://www.radionlife.ie/stream
+#EXTINF:-1 tvg-id="rte_radio_1.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/RT%C3%89_Radio_1_logo.svg/512px-RT%C3%89_Radio_1_logo.svg.png",RTÉ Radio 1
+https://av.rasset.ie/av/live/radio/radio1.m3u8
 
+#EXTINF:-1 tvg-id="rte_2fm.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/RT%C3%89_2FM_logo.svg/512px-RT%C3%89_2FM_logo.svg.png",RTÉ 2FM
+https://av.rasset.ie/av/live/radio/2fm.m3u8
+
+#EXTINF:-1 tvg-id="rte_lyric.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/RT%C3%89_Lyric_FM_logo.svg/512px-RT%C3%89_Lyric_FM_logo.svg.png",RTÉ Lyric FM
+https://av.rasset.ie/av/live/radio/lyric.m3u8
+
+#EXTINF:-1 tvg-id="rte_rnag.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Raidio_na_Gaeltachta_logo.svg/512px-Raidio_na_Gaeltachta_logo.svg.png",RTÉ Raidió na Gaeltachta
+https://av.rasset.ie/av/live/radio/rnag.m3u8
+
+#EXTINF:-1 tvg-id="rnl.ie" tvg-logo="https://www.radionlife.ie/wp-content/uploads/2021/05/logo_rnl.png",Radio na Life
+https://streaming.radio.co/s9772f0a3a/listen
 
 #EXTINF:-1 tvg-id="DDR.ie" tvg-logo="https://www.dublindigitalradio.com/wp-content/uploads/2020/12/logo.png" group-title="Core – Public Curated",Dublin Digital Radio
-
 https://listen.dublindigitalradio.com/stream
 
 
 #EXTINF:-1 tvg-id="NOVA.ie" tvg-logo="https://www.nova.ie/wp-content/uploads/2017/03/NovaLogo.png" group-title="Core – Public Curated",Radio Nova
-
 http://nova.ie/stream
 
 
 #EXTINF:-1 tvg-id="TODAY.ie" tvg-logo="https://www.todayfm.com/media/logo.png" group-title="Core – Public Curated",Today FM
-
 http://icecast.todayfm.com/TodayFMMP3
 
 
 #EXTINF:-1 tvg-id="SUN.ie" tvg-logo="https://sunshine.ie/wp-content/uploads/2018/07/Sunshine-Logo.png" group-title="Core – Public Curated",Sunshine 106.8
-
 http://sunshine.ie/stream
 
 
 #EXTINF:-1 tvg-id="DOWNTOWN.ie" tvg-logo="https://www.downtownradio.co.uk/images/logo.png" group-title="Core – Public Curated",Downtown Radio
-
 http://icecast.bauermedia.ie/downtown128.mp3
 
 
 #EXTINF:-1 tvg-id="IRADIO.ie" tvg-logo="https://iradio.ie/wp-content/uploads/2018/01/iRadio_logo.png" group-title="Core – Public Curated",iRadio
-
 http://icecast.iradio.ie/iRadioMP3
 
 
