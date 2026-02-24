@@ -43,7 +43,7 @@ https://av.rasset.ie/av/live/radio/rnag.m3u8
 #EXTINF:-1 tvg-id="rnl.ie" tvg-logo="https://www.radionlife.ie/wp-content/uploads/2021/05/logo_rnl.png",Radio na Life
 https://listen.radioking.com/radio/11474/stream/15331
 
-#EXTINF:-1 tvg-id="DDR.ie" tvg-logo="https://www.dublindigitalradio.com/wp-content/uploads/2020/12/logo.png" group-title="Core – Public Curated",Dublin Digital Radio
+#EXTINF:-1 tvg-id="dublin_digital_radio.ie" tvg-logo="https://i0.wp.com/dublindigitalradio.com/wp-content/uploads/2020/05/ddr-logo-black.png",Dublin Digital Radio
 https://listen.dublindigitalradio.com/stream
 
 
