@@ -1,30 +1,45 @@
 #EXTM3U
 
-# BBC stations (MP3 fallback – Tivimate safe)
+# BBC stations
 
-#EXTINF:-1 tvg-id="bbc_radio_1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BBC_Radio_1_Logo_2021.svg/512px-BBC_Radio_1_Logo_2021.svg.png",BBC Radio 1
-http://icecast.live.bbcmedia.co.uk/bbc_radio_one
+#EXTINF:-1 tvg-id="bbc_radio_1.uk",BBC Radio 1
+http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1 tvg-id="bbc_radio_2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BBC_Radio_2_Logo_2021.svg/512px-BBC_Radio_2_Logo_2021.svg.png",BBC Radio 2
-http://icecast.live.bbcmedia.co.uk/bbc_radio_two
+#EXTINF:-1 tvg-id="bbc_radio_1xtra.uk",BBC Radio 1Xtra
+http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1 tvg-id="bbc_radio_3.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BBC_Radio_3_Logo_2021.svg/512px-BBC_Radio_3_Logo_2021.svg.png",BBC Radio 3
-http://icecast.live.bbcmedia.co.uk/bbc_radio_three
+#EXTINF:-1 tvg-id="bbc_radio_1dance.uk",BBC Radio 1 Dance
+http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1 tvg-id="bbc_radio_4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/BBC_Radio_4_Logo_2021.svg/512px-BBC_Radio_4_Logo_4_Logo_2021.svg.png",BBC Radio 4
-http://icecast.live.bbcmedia.co.uk/bbc_radio_fourfm
+#EXTINF:-1 tvg-id="bbc_radio_1anthems.uk",BBC Radio 1 Anthems
+http://as-hls-uk-live.akamaized.net/pool_11351741/live/uk/bbc_radio_one_anthems/bbc_radio_one_anthems.isml/bbc_radio_one_anthems-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1 tvg-id="bbc_radio_5_live.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_Radio_5_Live_Logo_2021.svg/512px-BBC_Radio_5_Live_Logo_2021.svg.png",BBC Radio 5 Live
-http://icecast.live.bbcmedia.co.uk/bbc_radio_five_live
+#EXTINF:-1 tvg-id="bbc_radio_2.uk",BBC Radio 2
+http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1 tvg-id="bbc_radio_5_live_sports_extra.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_Radio_5_Live_Logo_2021.svg/512px-BBC_Radio_5_Live_Logo_2021.svg.png",BBC Radio 5 Live Sports Extra
-http://icecast.live.bbcmedia.co.uk/bbc_radio_five_live_sports_extra
+#EXTINF:-1 tvg-id="bbc_radio_3.uk",BBC Radio 3
+http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1 tvg-id="bbc_radio_6music.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/BBC_Radio_6_Music_Logo_2021.svg/512px-BBC_Radio_6_Music_Logo_2021.svg.png",BBC Radio 6 Music
-http://icecast.live.bbcmedia.co.uk/bbc_6music
+#EXTINF:-1 tvg-id="bbc_radio_3_unwind.uk",BBC Radio 3 Unwind
+http://as-hls-uk-live.akamaized.net/pool_30624046/live/uk/bbc_radio_three_unwind/bbc_radio_three_unwind.isml/bbc_radio_three_unwind-audio%3d320000.norewind.m3u8
 
-#EXTINF:-1 tvg-id="bbc_radio_ulster.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/BBC_Radio_Ulster_logo.svg/512px-BBC_Radio_Ulster_logo.svg.png",BBC Radio Ulster
-http://icecast.live.bbcmedia.co.uk/bbc_radio_ulster
+#EXTINF:-1 tvg-id="bbc_radio_4.uk",BBC Radio 4
+http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="bbc_radio_4_extra.uk",BBC Radio 4 Extra
+http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="bbc_radio_5_live.uk",BBC Radio 5 Live
+http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="bbc_radio_5_live_sports_extra.uk",BBC Radio 5 Live Sports Extra
+http://as-hls-uk-live.akamaized.net/pool_47700285/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="bbc_radio_6music.uk",BBC Radio 6 Music
+http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1 tvg-id="bbc_radio_ulster.uk",BBC Radio Ulster
+http://as-hls-ww-live.akamaized.net/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d96000.norewind.m3u8
 
 # Irish stations
 #EXTINF:-1 tvg-id="rte_radio_1.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/RT%C3%89_Radio_1_logo.svg",RTÉ Radio 1
