@@ -4,7 +4,7 @@
 # CORE PUBLIC & CULTURED
 ##############################
 
-# UK BBC stations (EPG IDs matched to dp247 Freeview-EPG)
+# UK BBC stations
 #EXTINF:-1 tvg-id="bbc_radio_1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BBC_Radio_1_Logo_2021.svg" group-title="Core – Public Curated",BBC Radio 1
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
 
@@ -29,14 +29,15 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_6music
 #EXTINF:-1 tvg-id="bbc_radio_ulster.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/BBC_Radio_Ulster_logo.svg" group-title="Core – Public Curated",BBC Radio Ulster
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_ulster
 
-# EXTINF for Downtown, iRadio (no EPG)
+# Downtown Radio
 #EXTINF:-1 tvg-logo="https://www.downtownradio.co.uk/images/logo.png" group-title="Core – Public Curated",Downtown Radio
 http://icecast.bauermedia.ie/downtown128.mp3
 
+# iRadio
 #EXTINF:-1 tvg-logo="https://iradio.ie/wp-content/uploads/2018/01/iRadio_logo.png" group-title="Core – Public Curated",iRadio
 http://icecast.iradio.ie/iRadioMP3
 
-# Ireland RTÉ stations (EPG IDs matched to saorview.xml)
+# Ireland RTÉ stations
 #EXTINF:-1 tvg-id="rte_radio_1.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/RT%C3%89_Radio_1_logo.svg" group-title="Core – Public Curated",RTÉ Radio 1
 http://av.rasset.ie/av/live/radio/radio1.m3u8
 
@@ -49,26 +50,30 @@ http://av.rasset.ie/av/live/radio/lyric.m3u8
 #EXTINF:-1 tvg-id="rte_rnag.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Raidio_na_Gaeltachta_logo.svg" group-title="Core – Public Curated",RTÉ Raidió na Gaeltachta
 http://av.rasset.ie/av/live/radio/rnag.m3u8
 
-# Other Irish stations (no EPG)
+# Radio na Life
 #EXTINF:-1 tvg-logo="https://www.radionlife.ie/wp-content/uploads/2021/05/logo_rnl.png" group-title="Core – Public Curated",Radio na Life
 http://www.radionlife.ie/stream
 
+# Dublin Digital Radio
 #EXTINF:-1 tvg-logo="https://www.dublindigitalradio.com/wp-content/uploads/2020/12/logo.png" group-title="Core – Public Curated",Dublin Digital Radio
 https://listen.dublindigitalradio.com/stream
 
+# Today FM
 #EXTINF:-1 tvg-logo="https://www.todayfm.com/media/logo.png" group-title="Core – Public Curated",Today FM
 http://icecast.todayfm.com/TodayFMMP3
 
+# Radio Nova
 #EXTINF:-1 tvg-logo="https://nova.ie/wp-content/uploads/2017/03/NovaLogo.png" group-title="Core – Public Curated",Radio Nova
 http://nova.ie/stream
 
+# Sunshine 106.8
 #EXTINF:-1 tvg-logo="https://sunshine.ie/wp-content/uploads/2018/07/Sunshine-Logo.png" group-title="Core – Public Curated",Sunshine 106.8
 http://sunshine.ie/stream
 
 ##############################
 # GLOBAL CURATORS
 ##############################
-# (All previous curated stations, no tvg-id)
+
 #EXTINF:-1 tvg-logo="https://kexp.org/static/logo/kexp-logo.svg" group-title="Global Curators",KEXP
 https://kexp-mp3-128.streamguys1.com/kexp128.mp3
 
@@ -108,7 +113,7 @@ https://wamufm.streamguys1.com/wamu128.mp3
 ##############################
 # EUROPE
 ##############################
-# (All previous European stations, no tvg-id)
+
 #EXTINF:-1 tvg-logo="http://funkyasstunes.streamguys1.com/funky-logo.png" group-title="Europe",Funky Ass Tunes
 http://funkyasstunes.streamguys1.com/funky128.mp3
 
@@ -127,78 +132,5 @@ http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
 #EXTINF:-1 tvg-logo="http://pyroradio.streamguys1.com/logo.png" group-title="Europe",Pyro Radio
 http://pyroradio.streamguys1.com/pyro128.mp3
 
-#EXTINF:-1 tvg-logo="http://radionova.fr/logo.png" group-title="Europe",Radio Nova France
-http://radionova.streamak.org:8000/novafrance.mp3
-
-#EXTINF:-1 tvg-logo="https://sverigesradio.se/images/sr_p2_logo.png" group-title="Europe",Sveriges Radio P2
-https://sverigesradio.se/topsy/direkt/227-hi-mp3
-
-#EXTINF:-1 tvg-logo="https://sverigesradio.se/images/sr_p6_logo.png" group-title="Europe",Sveriges Radio P6
-https://sverigesradio.se/topsy/direkt/266-hi-mp3
-
-#EXTINF:-1 tvg-logo="https://www.nrk.no/p2-logo.png" group-title="Europe",NRK P2
-https://lyd.nrk.no/nrk_radio_p2_mp3
-
-#EXTINF:-1 tvg-logo="https://yle.fi/logo.png" group-title="Europe",Yle Radio 1
-https://yleuni.cdnstream1.com/live/mp3-128
-
-#EXTINF:-1 tvg-logo="https://www.byte.fm/logo.png" group-title="Europe",ByteFM
-https://bytefm.streamguys1.com/byte128.mp3
-
-#EXTINF:-1 tvg-logo="https://nowyswiat.online/logo.png" group-title="Europe",Radio Nowy Świat
-https://stream.nowyswiat.online/rns
-
-#EXTINF:-1 tvg-logo="http://stream.srg-ssr.ch/m/rsj/logo.png" group-title="Europe",Radio Suisse Jazz
-http://stream.srg-ssr.ch/m/rsj/mp3_128
-
-#EXTINF:-1 tvg-logo="http://listen.jazz-eire.com/logo.png" group-title="Europe",Jazz Éire
-http://listen.jazz-eire.com/stream
-
-##############################
-# AMERICAS
-##############################
-# (All previous Americas stations, no tvg-id)
-#EXTINF:-1 tvg-logo="https://radioparadise.com/images/logo_rp.png" group-title="Americas",Radio Paradise Main
-https://stream.radioparadise.com/mp3-192
-
-#EXTINF:-1 tvg-logo="https://radioparadise.com/images/logo_rp.png" group-title="Americas",Radio Paradise Mellow
-https://stream.radioparadise.com/mellow-192
-
-#EXTINF:-1 tvg-logo="https://worldwidefm.com/images/logo.png" group-title="Americas",Worldwide FM
-https://worldwidefm.out.airtime.pro/worldwidefm_a
-
-#EXTINF:-1 tvg-logo="https://wfuv.org/wp-content/themes/wfuv-theme/assets/images/logo.png" group-title="Americas",WFUV
-https://wfuv.streamguys1.com/wfuv128.mp3
-
-#EXTINF:-1 tvg-logo="https://cbc.radio-canada.ca/resources/images/CBCRadio.png" group-title="Americas",CBC Music Main
-https://cbcmp3.ic.llnwd.net/stream/cbcmp3_m_main
-
-#EXTINF:-1 tvg-logo="https://media.npr.org/images/npr-logo.png" group-title="Americas",NPR
-https://npr-ice.streamguys1.com/npr_128.mp3
-
-#EXTINF:-1 tvg-logo="https://www.wamu.org/wp-content/themes/wamu-theme/img/logo.png" group-title="Americas",WAMU DC
-https://wamufm.streamguys1.com/wamu128.mp3
-
-##############################
-# AFRICA
-##############################
-#EXTINF:-1 tvg-logo="https://www.kayafm.co.za/logo.png" group-title="Africa",Kaya FM
-https://edge.iono.fm/xice/kayafm_live_medium.aac
-
-##############################
-# ASIA / OCEANIA
-##############################
-#EXTINF:-1 tvg-logo="https://www.j-wave.co.jp/img/logo.png" group-title="Asia / Oceania",J-WAVE
-https://playerservices.streamtheworld.com/api/livestream-redirect/JWAVE.mp3
-
-#EXTINF:-1 tvg-logo="https://www.fmcocolo.jp/logo.png" group-title="Asia / Oceania",FM COCOLO
-https://playerservices.streamtheworld.com/api/livestream-redirect/FMCOCOLO.mp3
-
-#EXTINF:-1 tvg-logo="https://seoulcommunityradio.org/logo.png" group-title="Asia / Oceania",Seoul Community Radio
-https://seoulcommunityradio.streamguys1.com/128.mp3
-
-#EXTINF:-1 tvg-logo="https://www.rnz.co.nz/assets/images/rnz_logo.png" group-title="Asia / Oceania",RNZ National
-https://rnz-national.streamguys1.com/128.mp3
-
-#EXTINF:-1 tvg-logo="https://bondibeachradio.com/logo.png" group-title="Asia / Oceania",Bondi Beach Radio
-https://bondibeachradio.streamguys1.com/bondi128.mp3
+#EXTINF:-1 tvg-logo="https://www.near.ie/logo.png" group-title="Europe",Near FM
+http://near.ie:8000/stream
