@@ -41,7 +41,7 @@ https://av.rasset.ie/av/live/radio/lyric.m3u8
 https://av.rasset.ie/av/live/radio/rnag.m3u8
 
 #EXTINF:-1 tvg-id="raidio_na_life.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Raidi%C3%B3_Na_Life.png",Raidió na Life
-http://stream.radiotime.com/listen.m3u?streamId=11737757
+http://beryl.streamguys.com:5010/live
 
 #EXTINF:-1 tvg-id="dublin_digital_radio.ie" tvg-logo="https://f4.bcbits.com/img/0012621189_10.jpg",Dublin Digital Radio
 https://dublin-digital-radio.radiocult.fm/stream
