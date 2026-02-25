@@ -58,12 +58,12 @@ https://dublin-digital-radio.radiocult.fm/stream
 https://kexp-mp3-128.streamguys1.com/kexp128.mp3
 
 
-#EXTINF:-1 tvg-id="FIP.fr" tvg-logo="http://direct.fipradio.fr/static/fiplogo.png" group-title="Global Curators",FIP
+#EXTINF:-1 tvg-id="FIP.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/FIP_logo.png" group-title="Global Curators",FIP
 
 http://direct.fipradio.fr/live/fip-midfi.mp3
 
 
-#EXTINF:-1 tvg-id="FIPJAZZ.fr" tvg-logo="http://direct.fipradio.fr/static/fiplogo.png" group-title="Global Curators",FIP Jazz
+#EXTINF:-1 tvg-id="FIPJAZZ.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/FIP_logo.png" group-title="Global Curators",FIP Jazz
 
 http://direct.fipradio.fr/live/fipjazz-midfi.mp3
 
@@ -83,12 +83,12 @@ https://stre"am.radioparadise.com/mellow-192
 https://worldwidefm.out.airtime.pro/worldwidefm_a
 
 
-#EXTINF:-1 tvg-id="NTS.uk" tvg-logo="https://www.nts.live/images/logo.png" group-title="Global Curators",NTS 1
+#EXTINF:-1 tvg-id="NTS.uk" tvg-logo="https://images.seeklogo.com/logo-png/45/2/nts-radio-logo-png_seeklogo-457202.png" group-title="Global Curators",NTS 1
 
 https://stream-relay-geo.ntslive.net/stream
 
 
-#EXTINF:-1 tvg-id="WFMU.us" tvg-logo="https://wfmu.org/images/logo.png" group-title="Global Curators",WFMU
+#EXTINF:-1 tvg-id="WFMU.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/WFMU_New_Orange_2008.png" group-title="Global Curators",WFMU
 
 https://stream0.wfmu.org/freeform-128k
 
@@ -185,7 +185,7 @@ https://bytefm.streamguys1.com/byte128.mp3
 https://stream.nowyswiat.online/rns
 
 
-#EXTINF:-1 tvg-id="RSJ.ch" tvg-logo="http://stream.srg-ssr.ch/m/rsj/logo.png" group-title="Europe",Radio Suisse Jazz
+#EXTINF:-1 tvg-id="RSJ.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Radio_Swiss_Jazz_logo.png" group-title="Europe",Radio Suisse Jazz
 
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
