@@ -46,236 +46,206 @@ http://stream.radiotime.com/listen.m3u?streamId=11737757
 #EXTINF:-1 tvg-id="dublin_digital_radio.ie" tvg-logo="https://f4.bcbits.com/img/0012621189_10.jpg",Dublin Digital Radio
 https://dublindigitalradio.out.airtime.pro/dublindigitalradio_a
 
-
-##############################
-
-# GLOBAL CURATORS
-
-##############################
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/KEXP_Seattle_2018.png" group-title="Global Curators", KEXP
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/KEXP_Seattle_2018.png", KEXP
 https://kexp-mp3-128.streamguys1.com/kexp128.mp3
 
 
-#EXTINF:-1 tvg-id="FIP.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/FIP_logo.png" group-title="Global Curators",FIP
+#EXTINF:-1 tvg-id="FIP.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/FIP_logo.png",FIP
 
 http://direct.fipradio.fr/live/fip-midfi.mp3
 
 
-#EXTINF:-1 tvg-id="FIPJAZZ.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/FIP_logo.png" group-title="Global Curators",FIP Jazz
+#EXTINF:-1 tvg-id="FIPJAZZ.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/FIP_logo.png",FIP Jazz
 
 http://direct.fipradio.fr/live/fipjazz-midfi.mp3
 
 
-#EXTINF:-1 tvg-id="RPMAIN.us" tvg-logo="https://radioparadise.com/images/logo_rp.png" group-title="Global Curators",Radio Paradise Main
+#EXTINF:-1 tvg-id="RPMAIN.us" tvg-logo="https://radioparadise.com/images/logo_rp.png",Radio Paradise Main
 
 https://stream.radioparadise.com/mp3-192
 
 
-#EXTINF:-1 tvg-id="RPMELLOW.us" tvg-logo="https://radioparadise.com/images/logo_rp.png" group-title="Global Curators",Radio Paradise Mellow
+#EXTINF:-1 tvg-id="RPMELLOW.us" tvg-logo="https://radioparadise.com/images/logo_rp.png" ,Radio Paradise Mellow
 
 https://stre"am.radioparadise.com/mellow-192
 
 
-#EXTINF:-1 tvg-id="WWFM.uk" tvg-logo="https://worldwidefm.com/images/logo.png" group-title="Global Curators",Worldwide FM
+#EXTINF:-1 tvg-id="WWFM.uk" tvg-logo="https://worldwidefm.com/images/logo.png" ,Worldwide FM
 
 https://worldwidefm.out.airtime.pro/worldwidefm_a
 
 
-#EXTINF:-1 tvg-id="NTS.uk" tvg-logo="https://images.seeklogo.com/logo-png/45/2/nts-radio-logo-png_seeklogo-457202.png" group-title="Global Curators",NTS 1
+#EXTINF:-1 tvg-id="NTS.uk" tvg-logo="https://images.seeklogo.com/logo-png/45/2/nts-radio-logo-png_seeklogo-457202.png" ,NTS 1
 
 https://stream-relay-geo.ntslive.net/stream
 
 
-#EXTINF:-1 tvg-id="WFMU.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/WFMU_New_Orange_2008.png" group-title="Global Curators",WFMU
+#EXTINF:-1 tvg-id="WFMU.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/WFMU_New_Orange_2008.png" ,WFMU
 
 https://stream0.wfmu.org/freeform-128k
 
 
-#EXTINF:-1 tvg-id="CBC.ca" tvg-logo="https://cbc.radio-canada.ca/resources/images/CBCRadio.png" group-title="Global Curators",CBC Music Main
+#EXTINF:-1 tvg-id="CBC.ca" tvg-logo="https://cbc.radio-canada.ca/resources/images/CBCRadio.png" ,CBC Music Main
 
 https://cbcmp3.ic.llnwd.net/stream/cbcmp3_m_main
 
 
-#EXTINF:-1 tvg-id="WFUV.us" tvg-logo="https://wfuv.org/wp-content/themes/wfuv-theme/assets/images/logo.png" group-title="Global Curators",WFUV
+#EXTINF:-1 tvg-id="WFUV.us" tvg-logo="https://wfuv.org/wp-content/themes/wfuv-theme/assets/images/logo.png" ,WFUV
 
 https://wfuv.streamguys1.com/wfuv128.mp3
 
 
-#EXTINF:-1 tvg-id="NPR.us" tvg-logo="https://media.npr.org/images/npr-logo.png" group-title="Global Curators",NPR
+#EXTINF:-1 tvg-id="NPR.us" tvg-logo="https://media.npr.org/images/npr-logo.png" ,NPR
 
 https://npr-ice.streamguys1.com/npr_128.mp3
 
 
-#EXTINF:-1 tvg-id="WAMU.us" tvg-logo="https://www.wamu.org/wp-content/themes/wamu-theme/img/logo.png" group-title="Global Curators",WAMU DC
+#EXTINF:-1 tvg-id="WAMU.us" tvg-logo="https://www.wamu.org/wp-content/themes/wamu-theme/img/logo.png" ,WAMU DC
 
 https://wamufm.streamguys1.com/wamu128.mp3
 
 
-##############################
 
-# EUROPE
-
-##############################
-
-
-#EXTINF:-1 tvg-id="FUNKY.eu" tvg-logo="http://funkyasstunes.streamguys1.com/funky-logo.png" group-title="Europe",Funky Ass Tunes
+#EXTINF:-1 tvg-id="FUNKY.eu" tvg-logo="http://funkyasstunes.streamguys1.com/funky-logo.png",Funky Ass Tunes
 
 http://funkyasstunes.streamguys1.com/funky128.mp3
 
 
-#EXTINF:-1 tvg-id="DUBLAB.eu" tvg-logo="https://dublab.com/images/logo.png" group-title="Europe",Dublab
+#EXTINF:-1 tvg-id="DUBLAB.eu" tvg-logo="https://dublab.com/images/logo.png" ,Dublab
 
 https://dublab.out.airtime.pro/dublab_a
 
 
-#EXTINF:-1 tvg-id="SOHO.uk" tvg-logo="https://sohoradiolive.com/images/logo.png" group-title="Europe",Soho Radio
+#EXTINF:-1 tvg-id="SOHO.uk" tvg-logo="https://sohoradiolive.com/images/logo.png" ,Soho Radio
 
 https://sohoradiomusic.doughunt.co.uk:8010/320mp3
 
 
-#EXTINF:-1 tvg-id="CASHMERE.eu" tvg-logo="https://cashmereradio.com/logo.png" group-title="Europe",Cashmere Radio
+#EXTINF:-1 tvg-id="CASHMERE.eu" tvg-logo="https://cashmereradio.com/logo.png" ,Cashmere Radio
 
 https://cashmereradio.out.airtime.pro/cashmereradio_a
 
 
-#EXTINF:-1 tvg-id="RADIO_MEUH.ch" tvg-logo="http://radiomeuh.ch/logo.png" group-title="Europe",Radio Meuh
+#EXTINF:-1 tvg-id="RADIO_MEUH.ch" tvg-logo="http://radiomeuh.ch/logo.png" ,Radio Meuh
 
 http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
 
 
-#EXTINF:-1 tvg-id="PYRO.eu" tvg-logo="http://pyroradio.streamguys1.com/logo.png" group-title="Europe",Pyro Radio
+#EXTINF:-1 tvg-id="PYRO.eu" tvg-logo="http://pyroradio.streamguys1.com/logo.png" ,Pyro Radio
 
 http://pyroradio.streamguys1.com/pyro128.mp3
 
 
-#EXTINF:-1 tvg-id="RADIO_NOVA.fr" tvg-logo="http://radionova.fr/logo.png" group-title="Europe",Radio Nova France
+#EXTINF:-1 tvg-id="RADIO_NOVA.fr" tvg-logo="http://radionova.fr/logo.png" ,Radio Nova France
 
 http://radionova.streamak.org:8000/novafrance.mp3
 
 
-#EXTINF:-1 tvg-id="SR_P2.se" tvg-logo="https://sverigesradio.se/images/sr_p2_logo.png" group-title="Europe",Sveriges Radio P2
+#EXTINF:-1 tvg-id="SR_P2.se" tvg-logo="https://sverigesradio.se/images/sr_p2_logo.png" ,Sveriges Radio P2
 
 https://sverigesradio.se/topsy/direkt/227-hi-mp3
 
 
-#EXTINF:-1 tvg-id="SR_P6.se" tvg-logo="https://sverigesradio.se/images/sr_p6_logo.png" group-title="Europe",Sveriges Radio P6
+#EXTINF:-1 tvg-id="SR_P6.se" tvg-logo="https://sverigesradio.se/images/sr_p6_logo.png" ,Sveriges Radio P6
 
 https://sverigesradio.se/topsy/direkt/266-hi-mp3
 
 
-#EXTINF:-1 tvg-id="NRK_P2.no" tvg-logo="https://www.nrk.no/p2-logo.png" group-title="Europe",NRK P2
+#EXTINF:-1 tvg-id="NRK_P2.no" tvg-logo="https://www.nrk.no/p2-logo.png" ,NRK P2
 
 https://lyd.nrk.no/nrk_radio_p2_mp3
 
 
-#EXTINF:-1 tvg-id="YLE1.fi" tvg-logo="https://yle.fi/logo.png" group-title="Europe",Yle Radio 1
+#EXTINF:-1 tvg-id="YLE1.fi" tvg-logo="https://yle.fi/logo.png" ,Yle Radio 1
 
 https://yleuni.cdnstream1.com/live/mp3-128
 
 
-#EXTINF:-1 tvg-id="BYTEFM.de" tvg-logo="https://www.byte.fm/logo.png" group-title="Europe",ByteFM
+#EXTINF:-1 tvg-id="BYTEFM.de" tvg-logo="https://www.byte.fm/logo.png" ,ByteFM
 
 https://bytefm.streamguys1.com/byte128.mp3
 
 
-#EXTINF:-1 tvg-id="RNS.pl" tvg-logo="https://nowyswiat.online/logo.png" group-title="Europe",Radio Nowy Świat
+#EXTINF:-1 tvg-id="RNS.pl" tvg-logo="https://nowyswiat.online/logo.png" ,Radio Nowy Świat
 
 https://stream.nowyswiat.online/rns
 
 
-#EXTINF:-1 tvg-id="RSJ.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Radio_Swiss_Jazz_logo.png" group-title="Europe",Radio Suisse Jazz
+#EXTINF:-1 tvg-id="RSJ.ch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Radio_Swiss_Jazz_logo.png" ,Radio Suisse Jazz
 
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
 
-#EXTINF:-1 tvg-id="JAZZ.ire" tvg-logo="http://listen.jazz-eire.com/logo.png" group-title="Europe",Jazz Éire
+#EXTINF:-1 tvg-id="JAZZ.ire" tvg-logo="http://listen.jazz-eire.com/logo.png" ,Jazz Éire
 
 http://listen.jazz-eire.com/stream
 
 
-##############################
 
-# AMERICAS
-
-##############################
-
-
-#EXTINF:-1 tvg-id="RPMAIN.us" tvg-logo="https://radioparadise.com/images/logo_rp.png" group-title="Americas",Radio Paradise Main
+#EXTINF:-1 tvg-id="RPMAIN.us" tvg-logo="https://radioparadise.com/images/logo_rp.png" ,Radio Paradise Main
 
 https://stream.radioparadise.com/mp3-192
 
 
-#EXTINF:-1 tvg-id="RPMELLOW.us" tvg-logo="https://radioparadise.com/images/logo_rp.png" group-title="Americas",Radio Paradise Mellow
+#EXTINF:-1 tvg-id="RPMELLOW.us" tvg-logo="https://radioparadise.com/images/logo_rp.png" ,Radio Paradise Mellow
 
 https://stream.radioparadise.com/mellow-192
 
 
-#EXTINF:-1 tvg-id="WWFM.us" tvg-logo="https://worldwidefm.com/images/logo.png" group-title="Americas",Worldwide FM
+#EXTINF:-1 tvg-id="WWFM.us" tvg-logo="https://worldwidefm.com/images/logo.png" ,Worldwide FM
 
 https://worldwidefm.out.airtime.pro/worldwidefm_a
 
 
-#EXTINF:-1 tvg-id="WFUV.us" tvg-logo="https://wfuv.org/wp-content/themes/wfuv-theme/assets/images/logo.png" group-title="Americas",WFUV
+#EXTINF:-1 tvg-id="WFUV.us" tvg-logo="https://wfuv.org/wp-content/themes/wfuv-theme/assets/images/logo.png" ,WFUV
 
 https://wfuv.streamguys1.com/wfuv128.mp3
 
 
-#EXTINF:-1 tvg-id="CBC.ca" tvg-logo="https://cbc.radio-canada.ca/resources/images/CBCRadio.png" group-title="Americas",CBC Music Main
+#EXTINF:-1 tvg-id="CBC.ca" tvg-logo="https://cbc.radio-canada.ca/resources/images/CBCRadio.png" ,CBC Music Main
 
 https://cbcmp3.ic.llnwd.net/stream/cbcmp3_m_main
 
 
-#EXTINF:-1 tvg-id="NPR.us" tvg-logo="https://media.npr.org/images/npr-logo.png" group-title="Americas",NPR
+#EXTINF:-1 tvg-id="NPR.us" tvg-logo="https://media.npr.org/images/npr-logo.png" ,NPR
 
 https://npr-ice.streamguys1.com/npr_128.mp3
 
 
-#EXTINF:-1 tvg-id="WAMU.us" tvg-logo="https://www.wamu.org/wp-content/themes/wamu-theme/img/logo.png" group-title="Americas",WAMU DC
+#EXTINF:-1 tvg-id="WAMU.us" tvg-logo="https://www.wamu.org/wp-content/themes/wamu-theme/img/logo.png" ,WAMU DC
 
 https://wamufm.streamguys1.com/wamu128.mp3
 
 
-##############################
-
-# AFRICA
-
-##############################
 
 
-#EXTINF:-1 tvg-id="KAYA.za" tvg-logo="https://www.kayafm.co.za/logo.png" group-title="Africa",Kaya FM
+#EXTINF:-1 tvg-id="KAYA.za" tvg-logo="https://www.kayafm.co.za/logo.png" ,Kaya FM
 
 https://edge.iono.fm/xice/kayafm_live_medium.aac
 
 
-##############################
-
-# ASIA / OCEANIA
-
-##############################
 
 
-#EXTINF:-1 tvg-id="JWAVE.jp" tvg-logo="https://www.j-wave.co.jp/img/logo.png" group-title="Asia / Oceania",J-WAVE
+#EXTINF:-1 tvg-id="JWAVE.jp" tvg-logo="https://www.j-wave.co.jp/img/logo.png" ,J-WAVE
 
 https://playerservices.streamtheworld.com/api/livestream-redirect/JWAVE.mp3
 
 
-#EXTINF:-1 tvg-id="FMCOCOLO.jp" tvg-logo="https://www.fmcocolo.jp/logo.png" group-title="Asia / Oceania",FM COCOLO
+#EXTINF:-1 tvg-id="FMCOCOLO.jp" tvg-logo="https://www.fmcocolo.jp/logo.png" ,FM COCOLO
 
 https://playerservices.streamtheworld.com/api/livestream-redirect/FMCOCOLO.mp3
 
 
-#EXTINF:-1 tvg-id="SEOUl.kr" tvg-logo="https://seoulcommunityradio.org/logo.png" group-title="Asia / Oceania",Seoul Community Radio
+#EXTINF:-1 tvg-id="SEOUl.kr" tvg-logo="https://seoulcommunityradio.org/logo.png" ,Seoul Community Radio
 
 https://seoulcommunityradio.streamguys1.com/128.mp3
 
 
-#EXTINF:-1 tvg-id="RNZ.nz" tvg-logo="https://www.rnz.co.nz/assets/images/rnz_logo.png" group-title="Asia / Oceania",RNZ National
+#EXTINF:-1 tvg-id="RNZ.nz" tvg-logo="https://www.rnz.co.nz/assets/images/rnz_logo.png" ,RNZ National
 
 https://rnz-national.streamguys1.com/128.mp3
 
 
-#EXTINF:-1 tvg-id="BONDI.au" tvg-logo="https://bondibeachradio.com/logo.png" group-title="Asia / Oceania",Bondi Beach Radio
+#EXTINF:-1 tvg-id="BONDI.au" tvg-logo="https://bondibeachradio.com/logo.png" ,Bondi Beach Radio
 
 https://bondibeachradio.streamguys1.com/bondi128.mp3
