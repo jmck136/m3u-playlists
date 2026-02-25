@@ -54,7 +54,7 @@ https://dublin-digital-radio.radiocult.fm/stream
 ##############################
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/KEXP_logo_2022.png/600px-KEXP_logo_2022.png" group-title="Global Curators",KEXP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kexp_logo.png/512px-Kexp_logo.png group-title="Global Curators", KEXP
 https://kexp-mp3-128.streamguys1.com/kexp128.mp3
 
 
@@ -75,7 +75,7 @@ https://stream.radioparadise.com/mp3-192
 
 #EXTINF:-1 tvg-id="RPMELLOW.us" tvg-logo="https://radioparadise.com/images/logo_rp.png" group-title="Global Curators",Radio Paradise Mellow
 
-https://stream.radioparadise.com/mellow-192
+https://stre"am.radioparadise.com/mellow-192
 
 
 #EXTINF:-1 tvg-id="WWFM.uk" tvg-logo="https://worldwidefm.com/images/logo.png" group-title="Global Curators",Worldwide FM
