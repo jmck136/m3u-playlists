@@ -54,7 +54,7 @@ https://dublin-digital-radio.radiocult.fm/stream
 ##############################
 
 
-#EXTINF:-1 tvg-id="KEXP.us" tvg-logo="https://kexp.org/static/logo/kexp-logo.svg" group-title="Global Curators",KEXP
+#EXTINF:-1 tvg-id="KEXP.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/KEXP_logo_2022_%28one-color%29.svg/512px-KEXP_logo_2022_%28one-color%29.svg.png" group-title="Global Curators",KEXP
 
 https://kexp-mp3-128.streamguys1.com/kexp128.mp3
 
