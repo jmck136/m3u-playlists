@@ -40,8 +40,8 @@ https://av.rasset.ie/av/live/radio/lyric.m3u8
 #EXTINF:-1 tvg-id="rte_rnag.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Raidio_na_Gaeltachta_logo.svg/512px-Raidio_na_Gaeltachta_logo.svg.png",RTÉ Raidió na Gaeltachta
 https://av.rasset.ie/av/live/radio/rnag.m3u8
 
-#EXTINF:-1 tvg-id="rnl.ie" tvg-logo="https://www.radionlife.ie/wp-content/uploads/2021/05/logo_rnl.png",Radio na Life
-https://listen.radioking.com/radio/11474/stream/15331
+#EXTINF:-1 tvg-id="raidio_na_life.ie" tvg-logo="https://www.raidionalife.ie/wp-content/uploads/2021/05/logo_rnl.png",Raidió na Life
+http://stream.radiotime.com/listen.m3u?streamId=11737757
 
 #EXTINF:-1 tvg-id="dublin_digital_radio.ie" tvg-logo="https://i0.wp.com/dublindigitalradio.com/wp-content/uploads/2020/05/ddr-logo-black.png",Dublin Digital Radio
 https://listen.dublindigitalradio.com/stream
