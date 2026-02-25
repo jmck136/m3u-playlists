@@ -43,28 +43,8 @@ https://av.rasset.ie/av/live/radio/rnag.m3u8
 #EXTINF:-1 tvg-id="raidio_na_life.ie" tvg-logo="https://www.raidionalife.ie/wp-content/uploads/2021/05/logo_rnl.png",Raidió na Life
 http://stream.radiotime.com/listen.m3u?streamId=11737757
 
-#EXTINF:-1 tvg-id="dublin_digital_radio.ie" tvg-logo="https://i0.wp.com/dublindigitalradio.com/wp-content/uploads/2020/05/ddr-logo-black.png",Dublin Digital Radio
-https://listen.dublindigitalradio.com/stream
-
-
-#EXTINF:-1 tvg-id="NOVA.ie" tvg-logo="https://www.nova.ie/wp-content/uploads/2017/03/NovaLogo.png" group-title="Core – Public Curated",Radio Nova
-http://nova.ie/stream
-
-
-#EXTINF:-1 tvg-id="TODAY.ie" tvg-logo="https://www.todayfm.com/media/logo.png" group-title="Core – Public Curated",Today FM
-http://icecast.todayfm.com/TodayFMMP3
-
-
-#EXTINF:-1 tvg-id="SUN.ie" tvg-logo="https://sunshine.ie/wp-content/uploads/2018/07/Sunshine-Logo.png" group-title="Core – Public Curated",Sunshine 106.8
-http://sunshine.ie/stream
-
-
-#EXTINF:-1 tvg-id="DOWNTOWN.ie" tvg-logo="https://www.downtownradio.co.uk/images/logo.png" group-title="Core – Public Curated",Downtown Radio
-http://icecast.bauermedia.ie/downtown128.mp3
-
-
-#EXTINF:-1 tvg-id="IRADIO.ie" tvg-logo="https://iradio.ie/wp-content/uploads/2018/01/iRadio_logo.png" group-title="Core – Public Curated",iRadio
-http://icecast.iradio.ie/iRadioMP3
+#EXTINF:-1 tvg-id="dublin_digital_radio.ie" tvg-logo="https://dublindigitalradio.com/wp-content/uploads/2020/05/ddr-logo-black.png",Dublin Digital Radio
+https://dublin-digital-radio.radiocult.fm/stream
 
 
 ##############################
