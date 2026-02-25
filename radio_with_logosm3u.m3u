@@ -44,7 +44,7 @@ https://av.rasset.ie/av/live/radio/rnag.m3u8
 http://stream.radiotime.com/listen.m3u?streamId=11737757
 
 #EXTINF:-1 tvg-id="dublin_digital_radio.ie" tvg-logo="https://f4.bcbits.com/img/0012621189_10.jpg",Dublin Digital Radio
-https://dublindigitalradio.out.airtime.pro/dublindigitalradio_a
+https://dublin-digital-radio.radiocult.fm/stream
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/KEXP_Seattle_2018.png", KEXP
 https://kexp-mp3-128.streamguys1.com/kexp128.mp3
